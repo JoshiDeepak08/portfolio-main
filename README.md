@@ -15,10 +15,7 @@ This portfolio showcases my projects, skills, experiences, and achievements with
 
 ##  **Project Screenshot**
 
-```
 <img width="525" height="635" alt="image" src="https://github.com/user-attachments/assets/7502de03-ef58-4879-b14b-2315e3effae8" />
-
-```
 
 ---
 
